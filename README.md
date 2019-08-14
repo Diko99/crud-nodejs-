@@ -1,2 +1,3 @@
-# crud-nodejs-
-create read delete
+# crud-nodes
+simple crud
+
